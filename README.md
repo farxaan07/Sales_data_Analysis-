@@ -1,6 +1,5 @@
 # Sales_data_Analysis-
 
-#  Sales Data Analysis Project
 
 This repository contains a data analysis project completed as part of an academic assignment. The goal was to clean, explore, and visualize a sales dataset to uncover key business insights.
 
