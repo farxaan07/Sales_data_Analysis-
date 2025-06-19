@@ -25,4 +25,4 @@ The final section of the notebook includes a 400-word analysis summarizing:
 - The structure and characteristics of the dataset
 - Key patterns identified through visualizations
 - Any significant relationships (e.g., strong positive correlation between units sold and profit)
-- 
+  
